@@ -19,6 +19,7 @@ Diese Dokumente beschreiben, was LifeBalance können soll und wie es funktionier
 | 10 | [Roadmap](10-roadmap.md) | In welcher Reihenfolge gebaut wird |
 | 11 | [Offene Fragen](11-offene-fragen.md) | Was noch zu entscheiden ist |
 | 12 | [Inhaltsformat](12-inhaltsformat.md) | Wie eine Inhaltsdatei aufgebaut ist |
+|  | [Fragebogen](fragebogen.md) | Leere Vorlage: Fragen an P, um die App genau zu bauen (ausgefüllt nur privat ablegen) |
 
 ## Herkunft
 
