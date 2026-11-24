@@ -9,7 +9,7 @@ Mit diesem Fragebogen will ich verstehen, wie LifeBalance in deinem Alltag wirkl
 - **Ankreuzen:** `[ ]` zu `[x]` machen. Mehrere Kreuze sind erlaubt, wenn nichts anderes dabeisteht.
 - **Freitext:** hinter `Antwort:` schreiben. Stichworte reichen.
 - **Mein Vorschlag** steht bei jeder Frage. Wenn er passt, schreib einfach „ok“ oder lass die Frage leer. Leer heißt für mich: Vorschlag gilt.
-- **★ = wichtig für den Start.** Wenn du wenig Zeit hast, beantworte nur diese (etwa 40 Fragen, ca. 30 Minuten). Den Rest kannst du später nachholen.
+- **★ = wichtig für den Start.** Wenn du wenig Zeit hast, beantworte nur diese (35 Fragen, ca. 30 Minuten). Den Rest kannst du später nachholen.
 - Du kannst überall Kommentare dazuschreiben, auch zu Dingen, nach denen ich nicht gefragt habe.
 - **Datenschutz:** Die ausgefüllte Fassung bitte **nicht** ins öffentliche Repo legen, sondern hier in den Projektdateien lassen oder mir direkt zurückgeben. Das Repo enthält nur die leere Vorlage.
 
